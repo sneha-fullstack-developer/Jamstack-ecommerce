@@ -1,9 +1,10 @@
 import React from 'react'
 
-export default function Chairs() {
+const  Chairs = () => {
     return (
         <div>
-            
+            Chairs
         </div>
     )
 }
+export default Chairs

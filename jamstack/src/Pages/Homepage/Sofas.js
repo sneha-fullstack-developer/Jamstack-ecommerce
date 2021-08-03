@@ -1,9 +1,10 @@
 import React from 'react'
 
-export default function Sofas() {
+const Sofas = () => {
     return (
         <div>
-            
+            Sofas
         </div>
     )
 }
+export default Sofas;

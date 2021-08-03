@@ -1,9 +1,10 @@
 import React from 'react'
 
-export default function Onsale() {
+ const Onsale = () => {
     return (
         <div>
-            
+            Onsale
         </div>
     )
 }
+export default  Onsale

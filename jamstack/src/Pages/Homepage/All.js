@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function All() {
+ const All = ()=> {
     return (
         <div>
-            
+            All
         </div>
     )
 }
+export default All
+

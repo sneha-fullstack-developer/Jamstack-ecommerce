@@ -1,9 +1,10 @@
 import React from 'react'
 
-export default function Livingroom() {
+ const Livingroom = () => {
     return (
         <div>
-            
+            Living Room
         </div>
     )
 }
+export default Livingroom
