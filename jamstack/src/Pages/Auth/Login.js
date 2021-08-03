@@ -5,7 +5,7 @@ import React from 'react'
 const Login=({ triggerRegister }) => {
     
     return (
-        <div>
+        <div >
         <h3 className="my-4">Sign In</h3>
         <div className="flex flex-1 justify-center">
           <div className="w-full max-w-144">
